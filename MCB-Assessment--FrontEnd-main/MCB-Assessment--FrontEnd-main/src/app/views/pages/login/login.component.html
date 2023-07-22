@@ -1,0 +1,80 @@
+<div class="bg-light min-vh-100 d-flex flex-row align-items-center">
+  <c-container>
+    <c-row class="justify-content-center">
+      <c-col md="5">
+        <c-card-group>
+          <c-card class="p-4">
+            <c-card-body>
+                <form [formGroup]="formData" (ngSubmit)="onSubmit()">
+                  <h1>Login</h1>
+                  <p class="text-muted">Sign In to your account</p>
+                  <div style="padding-bottom: 10px;">
+                    <div class="input-group " >
+                      <span cInputGroupText>
+                        <svg cIcon name="cilUser"></svg>
+                      </span>
+                      <input type="text" 
+                        class="form-control" 
+                        placeholder="Email" 
+                        autocomplete="email"
+                        formControlName="email" 
+                      >
+                    </div>
+                    <span class="errors" style="color:red;"
+                    *ngIf="(!formData.get('email').valid && formData.get('email').touched) 
+                      ||
+                      (!formData.get('email').valid && formData.get('email').untouched && submitted)">
+                    <span *ngIf="formData.get('email').errors['required']">Email required!</span>
+                    <span *ngIf="formData.get('email').errors['email']">Invalid Email!</span>
+                  </span>
+                  </div>
+                  <div style="padding-bottom: 10px;">
+                    <div class="input-group">
+                      <span cInputGroupText>
+                        <svg cIcon name="cilLockLocked"></svg>
+                      </span>
+                      <input type="password"
+                        class="form-control"
+                        placeholder="Password" 
+                        autocomplete="current-password"
+                        formControlName="password"
+                      >
+                    </div>
+                    <span class="errors" style="color:red"
+                      *ngIf="(!formData.get('password').valid && formData.get('password').touched) 
+                        ||
+                        (!formData.get('password').valid && formData.get('password').untouched && submitted)">
+                      <span *ngIf="formData.get('password').errors['required']">Password required!</span>
+                    </span>
+                  </div>
+                  <div class="row">
+                    <div class="col-6">
+                      <button type="button" class="btn btn-primary px-4"  type="submit">Login</button>
+                    </div>
+                    <div class="col-6 text-right">
+                      <button type="button" class="btn btn-link px-0">Forgot password?</button>
+                    </div>
+                  </div>
+                </form>
+              </c-card-body>
+            </c-card>
+            <!-- <c-card [ngStyle]="{'width.%': 44}" class="text-white bg-primary py-5">
+              <c-card-body class="text-center">
+                <div>
+                  <h2>Sign up</h2>
+                  <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                    tempor incididunt ut labore et dolore magna aliqua.
+                  </p>
+                  <button [active]="true" cButton class="mt-3" color="primary" routerLink="/register">
+                    Register Now!
+                  </button>
+                </div>
+              </c-card-body>
+            </c-card> -->
+          </c-card-group>
+        </c-col>
+      </c-row>
+    </c-container>
+  </div>
+  

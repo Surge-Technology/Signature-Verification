@@ -1,0 +1,269 @@
+{
+	"info": {
+		"_postman_id": "dd1ad348-033f-4ccc-8140-97ec4cf11f8e",
+		"name": "Signature Verification  Apis",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "23727234"
+	},
+	"item": [
+		{
+			"name": "User",
+			"item": [
+				{
+					"name": "Create User",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"userName\": \"Jone\",\r\n    \"email\": \"rajeshbn512@gmail.com\",\r\n    \"password\": \"rajesh321\",\r\n    \"dob\": \"1993-09-18\",\r\n    \"phone\": \"987456321\",\r\n    \"address\": {\r\n        \"addressLine1\": \"67 ASHBROOK LN\",\r\n        \"addressLine2\": null,\r\n        \"pinCode\": \"35951-0026\",\r\n        \"city\": \"ALBERTVILLE AL\",\r\n        \"state\": \"Texas\"\r\n    }\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "localhost:8090/createUser"
+					},
+					"response": []
+				},
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"email\":\"rajeshbn512@gmail.com\",\r\n    \"password\": \"rajesh321\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "localhost:8090/login"
+					},
+					"response": []
+				},
+				{
+					"name": "Get User By Id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "localhost:8090/user/2"
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Users",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "localhost:8090/users"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Status",
+			"item": [
+				{
+					"name": "Create Status",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\":\"Assign\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "localhost:8090/status"
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Status",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "localhost:8090/status"
+					},
+					"response": []
+				},
+				{
+					"name": "Get Status Bu Id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "localhost:8090/status/18"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "EventSource",
+			"item": [
+				{
+					"name": "Create EventSource",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"businessKey\": \"MM1234\",\r\n    \"priority\": \"priority\",\r\n    \"application\": \"application\",\r\n    \"sourceBu\": \"akhiola@gmail.com\",\r\n    \"documentCaptureReference\": \"xyz\",\r\n    \"amountInMur\": 200,\r\n    \"transactionCurrency\": \"MUR\",\r\n    \"transactionAmount\": 200,\r\n    \"accountShortName\": \"accountShortName\",\r\n    \"debitAccountCurrency\": \"debitAccountCurrency\",\r\n    \"paymentDetails1\": \"paymentDetails1\",\r\n    \"paymentDetails2\": \"paymentDetails2\",\r\n    \"paymentDetails3\": \"paymentDetails3\",\r\n    \"paymentDetails4\": \"paymentDetails4\",\r\n    \"verified\": \"verified\",\r\n    \"debitAccountNumber\": \"3248579654\",\r\n    \"discrepancyReason\": \"discrepancyReason\",\r\n    \"comments\": \"fdgdhsdnv\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "localhost:8090/user/2/eventSource/status/Unassigned"
+					},
+					"response": []
+				},
+				{
+					"name": "Get EventSource By Id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "localhost:8090/eventSource/28"
+					},
+					"response": []
+				},
+				{
+					"name": "Get All EventSource",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "localhost:8090/eventSources"
+					},
+					"response": []
+				},
+				{
+					"name": "Update EventSource As Proceed Status",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"businessKey\": \"MC482\",\r\n    \"priority\": \"Medium\",\r\n    \"sourceBu\": \"abc@gmail.com\",\r\n    \"dcpReference\": \"xyz\",\r\n    \"accountName\": \"Jone\",\r\n    \"transactionCurrency\": \"MUR\",\r\n    \"transactionAmount\": 1500.0,\r\n    \"lockedBy\": \"abc\",\r\n    \"debitAccountNumber\": \"3248579654\",\r\n    \"accountCurrency\": \"EUR\",\r\n    \"beneficiaryName\": \"MCB\",\r\n    \"custInfoMkr\": \"abc\",\r\n    \"accountInfoMkr\": \"xyz\",\r\n    \"extension\":\"sfds\",\r\n    \"contactPerson\": \"abc\",\r\n    \"customerCalledOn\": \"cndsvndni\",\r\n    \"comment\":\"fdgdhsdnv\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "localhost:8090/outCome/14/user/2/eventSource/36/status/Proceed"
+					},
+					"response": []
+				},
+				{
+					"name": "Preview Pdf Viewer",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "file",
+									"type": "file",
+									"src": "/C:/Users/Rajesh_Banda/Downloads/Echannel Verification (1).pdf"
+								}
+							]
+						},
+						"url": "localhost:8090/api/pdf/preview"
+					},
+					"response": []
+				},
+				{
+					"name": "Get All EventSourceByStatusId",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "localhost:8090/by-status-name/Unassigned"
+					},
+					"response": []
+				},
+				{
+					"name": "Single or Multiple Selection to Assign to Currnet to User",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"eventSourceId\": [62, 63]\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "localhost:8090/requests/assign/user/2/status/Assign"
+					},
+					"response": []
+				},
+				{
+					"name": "Get Count Based on Status",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "localhost:8090/eventSourceStatus/count"
+					},
+					"response": []
+				},
+				{
+					"name": "Update EventSource As Reject",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"businessKey\": \"MC482\",\r\n    \"priority\": \"Medium\",\r\n    \"sourceBu\": \"abc@gmail.com\",\r\n    \"dcpReference\": \"xyz\",\r\n    \"accountName\": \"Jone\",\r\n    \"transactionCurrency\": \"MUR\",\r\n    \"transactionAmount\": 1500.0,\r\n    \"lockedBy\": \"abc\",\r\n    \"debitAccountNumber\": \"3248579654\",\r\n    \"accountCurrency\": \"EUR\",\r\n    \"beneficiaryName\": \"MCB\",\r\n    \"custInfoMkr\": \"abc\",\r\n    \"accountInfoMkr\": \"xyz\",\r\n    \"extension\":\"sfds\",\r\n    \"contactPerson\": \"abc\",\r\n    \"customerCalledOn\": \"cndsvndni\",\r\n    \"comment\":\"fdgdhsdnv\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "localhost:8090/outCome/14/user/2/eventSource/36/status/Reject"
+					},
+					"response": []
+				},
+				{
+					"name": "Get all Assigned Events",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "localhost:8090/user/2/status/Assign"
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"businessKey\": \"MC482\",\r\n    \"priority\": \"Medium\",\r\n    \"sourceBu\": \"abc@gmail.com\",\r\n    \"dcpReference\": \"xyz\",\r\n    \"accountName\": \"Jone\",\r\n    \"transactionCurrency\": \"MUR\",\r\n    \"transactionAmount\": 1500.0,\r\n    \"lockedBy\": \"abc\",\r\n    \"debitAccountNumber\": \"3248579654\",\r\n    \"accountCurrency\": \"EUR\",\r\n    \"beneficiaryName\": \"MCB\",\r\n    \"custInfoMkr\": \"abc\",\r\n    \"accountInfoMkr\": \"xyz\",\r\n    \"extension\":\"sfds\",\r\n    \"contactPerson\": \"abc\",\r\n    \"customerCalledOn\": \"cndsvndni\",\r\n    \"comment\":\"fdgdhsdnv\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://localhost:8090/user/2/eventSource/17/status/Approve"
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

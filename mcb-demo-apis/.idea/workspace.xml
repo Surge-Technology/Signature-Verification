@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7497bec-de4e-4e97-847b-a4d49d47d378" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/.idea/DatabaseToolDbSqlDialect.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificateTemplates/0a6b331e-70ec-45d1-a299-ae97e4c2bc54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificateTemplates/1c3000d0-392c-492f-8afb-2f3a19d6da3f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificateTemplates/3b814376-7259-4e41-8ec3-484f592eed45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificateTemplates/44224747-9291-4d89-830e-46deefc4a229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificateTemplates/547b227b-105f-4d32-b304-a24a3be3c796.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificateTemplates/77d545bf-f192-467e-8d2a-69709f2fff82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificateTemplates/8a72a6eb-23c3-486e-837b-54268b54ee4f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificateTemplates/9bcb7ad3-e4de-477e-800c-280b73b45eae.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificateTemplates/a009b643-eb9f-4462-b76d-de7c0ae3d51e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificateTemplates/bf22d9fb-b5af-476f-9bba-0ca2bc291d42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificateTemplates/d4ca7f70-3c1c-4c6b-b050-e3b97f405faa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificateTemplates/e8020353-9f60-48e5-aa56-df16f33bcb6a.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/1f523075-a682-4bee-a7c8-4c699d9ee8c0.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/1f523075-a682-4bee-a7c8-4c699d9ee8c0.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/41e39ce0-63fb-4695-8f69-3a3f13bea405.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/562a6e53-6448-4594-bb91-1d3b48154362.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/562a6e53-6448-4594-bb91-1d3b48154362.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/587836bd-986b-4d9d-a629-539349702bc1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/587836bd-986b-4d9d-a629-539349702bc1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/58cb6fcc-eafe-4ef8-83a8-659560c3b08b.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/58cb6fcc-eafe-4ef8-83a8-659560c3b08b.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/68208f74-a91b-44b3-8ae7-c50485b5eefb.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/68208f74-a91b-44b3-8ae7-c50485b5eefb.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/74f4e5f8-3435-44c8-a589-7440b2fee8ad.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/74f4e5f8-3435-44c8-a589-7440b2fee8ad.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/92e85032-7c78-45dc-881c-994816adfce2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/9477b16c-14c4-45f9-87e1-4578a0746dc9.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/9477b16c-14c4-45f9-87e1-4578a0746dc9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/94a51e68-5bb2-4130-8001-9c1fb1ea7861.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/94a51e68-5bb2-4130-8001-9c1fb1ea7861.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/a808504a-4357-4ac0-b80b-7b8da211f169.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/a808504a-4357-4ac0-b80b-7b8da211f169.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/aec3ff28-30b1-432c-97f0-1d45e1dabb4a.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/aec3ff28-30b1-432c-97f0-1d45e1dabb4a.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/ecd3e688-1721-4d42-94be-2461aee36339.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/ecd3e688-1721-4d42-94be-2461aee36339.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/f2001a67-f686-4746-8743-ead255e01d83.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/f2001a67-f686-4746-8743-ead255e01d83.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/f6e36a23-2a83-46c7-8cd8-e37720b55da9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/f6e36a23-2a83-46c7-8cd8-e37720b55da9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/f7676f22-b84e-4ff2-8d85-01765b92c704.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/f7676f22-b84e-4ff2-8d85-01765b92c704.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/fb754ee1-592e-4516-b390-b6ccc574016a.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/fb754ee1-592e-4516-b390-b6ccc574016a.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/fca9a998-673f-40de-8423-c5b150da674a.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/certificates/fca9a998-673f-40de-8423-c5b150da674a.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/emailTemplates/4823bb6e-92d6-44df-b3c1-453582e4b52a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/emailTemplates/61d90a92-9a21-445d-8a18-1c3dfb18b2b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/emailTemplates/b005da36-25f8-4aa9-843f-96755f18fb41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/emailTemplates/baad26bc-5f36-4f3d-a65f-9138cb1f42a0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/emailTemplates/bfb74475-89a0-4d8e-90d1-fdeac6423f0b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/emailTemplates/c8d47cc6-f097-4ab7-8006-b0967890301b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/emailTemplates/d9fb3994-cb0b-42b1-9f3b-12d2d297629d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/emailTemplates/e1d00c20-c259-4d38-9467-7ce01e2a6fe4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/emailTemplates/e5c61b63-bcf2-4456-a616-e3ad22723c35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/emailTemplates/f2bd61b0-cb77-45ac-8d3a-b49c274559de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/groupMessageAttachments/1d6cbd62-bd44-4a8a-8075-9286eb13c087.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/groupMessageAttachments/30c666b0-fff8-4d8a-b7a1-edb546f4b864.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/groupMessageAttachments/448e7b33-a95d-4246-8b4b-9a889161ef9a.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/groupMessageAttachments/561abeb5-9bc9-417f-8429-4e12b2244009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/groupMessageAttachments/667da444-d2c0-4f62-ab5e-93e5ec2b0c6f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/groupMessageAttachments/8ddc1dfe-1260-4c70-93d6-ba1e0d09d0ba.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/groupMessageAttachments/b3129e90-1a03-45b5-82b6-f71fed0f5c50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/groupMessageAttachments/cb081c94-e191-45d8-8528-b6357c3ff317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/groupMessageAttachments/e057a7f5-4ff0-4a7c-93be-31f118c86792.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/07031e3f-793f-4faa-8ed8-1afea98ae0cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/1316e92d-1d3b-4317-9610-63c35620b2e9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/1984b1c0-cdd5-4319-b191-12afe7978ee5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/20dde82b-36a4-48a0-80b0-006bdf5d1bbb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/327fbc34-fcea-4098-9daa-fbee4ed376d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/4b439c9b-2375-4b52-befb-eb6c3a1502d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/4c61fd6d-5d40-480f-9caf-96a91137eb61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/50b79528-8b30-4b60-aee4-a19f31837b8a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/58735eec-c94e-4318-9686-f7ffe01580ea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/5adb2196-8409-46d6-8827-efb943ef6f83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/5b36537e-063e-45b3-bc54-0e053018683e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/7a17484b-8909-4f99-8e7d-0e5fb9db5807.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/7b25226e-90b8-46e2-91b0-b2cfdac8eca5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/935522cf-3f65-4b4b-815a-48f91c584168.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/93bc289a-b62d-456a-b78e-ea9f097aef3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/9b6e03be-7d15-4ee5-a8d4-2c9c784546a9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/aafc1148-6d3d-42bc-9433-eab9b3582964.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/ad251d64-bf52-46f6-a691-349f2fa3dcb0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/b97ecd0e-e10a-468d-a6e2-18546c74bb71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/c530c267-6f30-4cea-9cc0-1301625a96f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/cbc3cc62-5191-4459-a697-b7bd496fd17c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/cd89c1a4-fe98-4e0e-9731-1310471242ce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/e49e9a0b-0c1a-48f7-94bb-ec3c3bdc2862.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/e64f4ff5-a83b-46fb-800a-f7bf7b939156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/eb88a61d-3f78-42a5-bd9a-6b7e4dc2b367.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/f7276433-5e1d-4ec7-8037-c21275170f31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/images/f9bdb662-0ec2-4d25-922a-b153508a7c5c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/SurgeAceApisApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/config/ContentConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/config/JpaAuditingConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/BatchController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/BeltSizeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/CertificateController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/ContractController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/ContractPromotionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/ContractStatusController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/DeactivationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/EmailTemplateController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/EmailTypeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/EventCategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/EventController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/EventRegistrationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/EventTypeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/GroupMessageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/LevelController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/LevelMappingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/LevelTestingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/MarketingSourcesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/ParentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/PaymentControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/RolesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/SportsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/StaffAttendanceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/StudentAttendanceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/StudentStatusController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/SubLevelController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/AddressDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/AllDayEventDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/ApiResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/BatchDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/BeltSizeDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/CardPaymentResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/CertificateDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/ChequePaymentDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/ContractDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/ContractPromotionDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/ContractStatusDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/CreateContractPaymentDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/CustomRangeEventDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/DeactivationDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/EmailTemplateDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/EmailTypeDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/EventCategoryDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/EventCommunicationDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/EventDetailsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/EventDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/EventEnrollmentDateDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/EventPricingDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/EventRegistrationAudienceDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/EventRegistrationDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/EventTypeDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/ForgotPasswordDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/GroupMessageDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/GuestStudentDetailsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/GuestStudentDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/ImageDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/JwtAuthRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/JwtAuthResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/LevelDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/LevelMappingDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/LevelTestingCountDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/LevelTestingDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/LevelTestingFinalSummaryDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/LevelTestingSummaryDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/PageResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/ParentDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/PaymentDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/PricingDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/PrimaryAudienceDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/ProgramNameDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/ResetPasswordDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/RoleDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/RolesDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/SportsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/StaffAttendanceCountDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/StaffAttendanceDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/StaffAttendanceFinalSummaryDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/StaffAttendanceSummaryDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/StripeCustomerDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/StudentAttendanceCountDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/StudentAttendanceDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/StudentAttendanceSummaryDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/StudentCurrentBeltStatusDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/StudentDetailsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/StudentDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/StudentStatusDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/StudentStatusHistoryDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/SubLevelDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/dto/UserDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/AllDayEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/Batch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/BeltSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/CardPaymentResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/Certificate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/ChequePayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/Contract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/ContractPromotion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/ContractStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/CustomRangeEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/Deactivation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/EmailTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/EmailType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/EventCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/EventEnrollmentDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/EventPricing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/EventRegistration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/EventType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/GroupMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/GuestStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/Level.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/LevelMapping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/LevelTesting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/Pricing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/PrimaryAudience.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/ProgramName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/Roles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/Sports.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/StaffAttendance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/StripeCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/StudentAttendance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/StudentStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/StudentStatusHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/SubLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/entities/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/exceptions/ApiException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/exceptions/DuplicateResourceFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/exceptions/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/exceptions/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/AwardsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/BatchModeDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/BatchStyleDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/DiscountOrFeeDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/EmploymentTypeDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/EventPricingCriteriaDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/FirstCriteriaDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/GroupCodeDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/LevelTestingStatusDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/MarketingSourceDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/PaymentTypeDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/SecondCriteriaDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/StateDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/SubscriptionFrequencyDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/TenureDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/ThirdCriteriaDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/dto/UserTypeDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/Awards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/BatchMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/BatchStyle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/DiscountOrFee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/EmploymentType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/EventPricingCriteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/FirstCriteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/GroupCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/LevelTestingStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/MarketingSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/PaymentType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/SecondCriteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/SubscriptionFrequency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/Tenure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/ThirdCriteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/entities/UserType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/AwardsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/BatchModeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/BatchStyleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/DiscountOrFeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/EmploymentTypeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/EventPricingCriteriaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/FirstCriteriaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/GroupCodeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/LevelTestingStatusRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/MarketingSourceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/PaymentTypeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/SecondCriteriaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/StateRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/SubscriptionFrequencyRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/TenureRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/ThirdCriteriaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/master/repositories/UserTypeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/AddressRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/AllDayEventRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/BatchRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/BeltSizeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/CardPaymentResponseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/CertificateRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/ChequePaymentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/ContractPromotionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/ContractRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/ContractStatusRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/CustomRangeEventRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/DeactivationRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/EmailTemplateRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/EmailTypeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/EventCategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/EventEnrollmentDateRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/EventPricingRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/EventRegistrationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/EventRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/EventTypeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/GroupMessageRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/GuestStudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/LevelMappingRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/LevelRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/LevelTestingRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/MarketingSourceRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/ParentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/PricingRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/PrimaryAudienceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/ProgramNameRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/RoleRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/RolesRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/SportsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/StaffAttendanceRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/StaffAttendanceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/StripeCustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/StudentAttendanceRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/StudentStatusHistoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/StudentStatusRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/SubLevelRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/repositories/UserRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/security/CustomUserDetailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/security/JwtAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/security/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/security/JwtTokenHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/AddressService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/BatchService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/BeltSizeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/CertificateImgToPdfService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/CertificateService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/ContractPromotionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/ContractService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/ContractStatusService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/DeactivationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/EmailTemplateService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/EmailTypeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/EventCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/EventRegistrationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/EventService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/EventTypeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/FileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/GroupMessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/LevelMappingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/LevelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/LevelTestingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/MarketingSourceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/ParentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/PaymentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/RolesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/SendEmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/SportsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/StaffAttendanceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/StudentAttendanceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/StudentStatusService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/SubLevelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/AddressServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/AuditorAwareImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/BatchServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/BeltSizeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/CertificateImgToPdfServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/CertificateServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/ContractPromotionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/ContractServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/ContractStatusServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/DeactivationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/EmailTemplateServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/EmailTypeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/EventCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/EventRegistrationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/EventServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/EventTypeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/FileServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/GroupMessageServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/LevelMappingServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/LevelServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/LevelTestingServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/MarketingSourceServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/ParentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/PaymentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/RolesServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/SendEmailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/SportsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/StaffAttendanceServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/StudentAttendanceServiceimpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/StudentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/StudentStatusServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/SubLevelServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/services/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/util/AppConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/java/com/gen/surgeaceapi/util/Auditable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/resources/db-migration/postgresql/V10__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/resources/db-migration/postgresql/V11__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/resources/db-migration/postgresql/V12__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/resources/db-migration/postgresql/V1__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/resources/db-migration/postgresql/V2__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/resources/db-migration/postgresql/V3__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/resources/db-migration/postgresql/V4__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/resources/db-migration/postgresql/V5__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/resources/db-migration/postgresql/V6__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/resources/db-migration/postgresql/V7__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/resources/db-migration/postgresql/V8__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/main/resources/db-migration/postgresql/V9__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/test/java/com/gen/surgeaceapi/AcadSubsApiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/test/java/com/gen/surgeaceapi/controller/BeltSizeControllerTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/test/java/com/gen/surgeaceapi/controller/ContractPromotionControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/test/java/com/gen/surgeaceapi/controller/EmailTemplateControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/test/java/com/gen/surgeaceapi/controller/StudentControllerTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/test/java/com/gen/surgeaceapi/repository/BeltSizeRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/test/java/com/gen/surgeaceapi/repository/ContractPromotionRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/test/java/com/gen/surgeaceapi/repository/EmailTemplateRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/test/java/com/gen/surgeaceapi/repository/StudentRepositoryTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/test/java/com/gen/surgeaceapi/service/BeltSizeServiceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/test/java/com/gen/surgeaceapi/service/ContractPromotionServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/test/java/com/gen/surgeaceapi/service/EmailTemplateServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/src/test/java/com/gen/surgeaceapi/service/StudentServiceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/system.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/SurgeAceApisApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/config/ContentConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/config/JpaAuditingConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/config/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/config/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/AuthController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/BatchController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/BeltSizeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/CertificateController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/ContractController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/ContractPromotionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/ContractStatusController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/DeactivationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/EmailTemplateController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/EmailTypeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/EventCategoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/EventController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/EventRegistrationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/EventTypeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/GroupMessageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/LevelController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/LevelMappingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/LevelTestingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/MarketingSourcesController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/ParentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/PaymentControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/RolesController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/SportsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/StaffAttendanceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/StudentAttendanceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/StudentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/StudentStatusController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/SubLevelController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/controllers/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/AddressDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/AllDayEventDto$AllDayEventDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/AllDayEventDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/ApiResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/BatchDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/BeltSizeDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/CardPaymentResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/CertificateDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/ChequePaymentDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/ContractDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/ContractPromotionDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/ContractStatusDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/CreateContractPaymentDto$CreateContractPaymentDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/CreateContractPaymentDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/CustomRangeEventDto$CustomRangeEventDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/CustomRangeEventDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/DeactivationDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EmailTemplateDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EmailTypeDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventCategoryDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventCommunicationDto$EventCommunicationDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventCommunicationDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventDetailsDto$EventDetailsDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventDetailsDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventDto$EventDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventEnrollmentDateDto$EventEnrollmentDateDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventEnrollmentDateDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventPricingDto$EventPricingDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventPricingDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventRegistrationAudienceDto$EventRegistrationAudienceDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventRegistrationAudienceDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventRegistrationDto$EventRegistrationDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventRegistrationDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/EventTypeDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/ForgotPasswordDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/GroupMessageDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/GuestStudentDetailsDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/GuestStudentDto$GuestStudentDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/GuestStudentDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/ImageDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/JwtAuthRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/JwtAuthResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/LevelDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/LevelMappingDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/LevelTestingCountDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/LevelTestingDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/LevelTestingFinalSummaryDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/LevelTestingSummaryDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/PageResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/ParentDto$ParentDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/ParentDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/PricingDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/PrimaryAudienceDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/ProgramNameDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/ResetPasswordDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/RoleDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/RolesDto$RolesDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/RolesDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/SportsDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StaffAttendanceCountDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StaffAttendanceDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StaffAttendanceFinalSummaryDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StaffAttendanceSummaryDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StripeCustomerDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StudentAttendanceCountDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StudentAttendanceDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StudentAttendanceSummaryDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StudentCurrentBeltStatusDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StudentDetailsDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StudentDto$StudentDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StudentDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StudentStatusDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/StudentStatusHistoryDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/SubLevelDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/dto/UserDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/AllDayEvent$AllDayEventBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/AllDayEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Batch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/BeltSize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/CardPaymentResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Certificate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/ChequePayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Contract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/ContractPromotion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/ContractStatus$ContractStatusBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/ContractStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/CustomRangeEvent$CustomRangeEventBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/CustomRangeEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Deactivation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/EmailTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/EmailType$EmailTypeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/EmailType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Event$EventBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/EventCategory$EventCategoryBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/EventCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/EventEnrollmentDate$EventEnrollmentDateBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/EventEnrollmentDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/EventPricing$EventPricingBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/EventPricing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/EventRegistration$EventRegistrationBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/EventRegistration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/EventType$EventTypeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/EventType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/GroupMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/GuestStudent$GuestStudentBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/GuestStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Level$LevelBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Level.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/LevelMapping$LevelMappingBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/LevelMapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/LevelTesting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Pricing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/PrimaryAudience.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/ProgramName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Roles$RolesBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Roles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Sports.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/StaffAttendance$StaffAttendanceBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/StaffAttendance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/StripeCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Student$StudentBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/StudentAttendance$StudentAttendanceBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/StudentAttendance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/StudentStatus$StudentStatusBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/StudentStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/StudentStatusHistory$StudentStatusHistoryBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/StudentStatusHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/SubLevel$SubLevelBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/SubLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/entities/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/exceptions/ApiException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/exceptions/DuplicateResourceFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/exceptions/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/exceptions/ResourceNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/AwardsDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/BatchModeDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/BatchStyleDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/DiscountOrFeeDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/EmploymentTypeDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/EventPricingCriteriaDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/FirstCriteriaDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/GroupCodeDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/LevelTestingStatusDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/MarketingSourceDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/PaymentTypeDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/SecondCriteriaDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/StateDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/SubscriptionFrequencyDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/TenureDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/ThirdCriteriaDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/dto/UserTypeDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/Awards$AwardsBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/Awards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/BatchMode$BatchModeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/BatchMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/BatchStyle$BatchStyleBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/BatchStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/DiscountOrFee$DiscountOrFeeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/DiscountOrFee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/EmploymentType$EmploymentTypeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/EmploymentType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/EventPricingCriteria$EventPricingCriteriaBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/EventPricingCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/FirstCriteria$FirstCriteriaBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/FirstCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/GroupCode$GroupCodeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/GroupCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/LevelTestingStatus$LevelTestingStatusBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/LevelTestingStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/MarketingSource$MarketingSourceBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/MarketingSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/PaymentType$PaymentTypeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/PaymentType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/SecondCriteria$SecondCriteriaBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/SecondCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/State$StateBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/SubscriptionFrequency$SubscriptionFrequencyBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/SubscriptionFrequency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/Tenure$TenureBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/Tenure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/ThirdCriteria$ThirdCriteriaBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/ThirdCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/UserType$UserTypeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/entities/UserType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/AwardsRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/BatchModeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/BatchStyleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/DiscountOrFeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/EmploymentTypeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/EventPricingCriteriaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/FirstCriteriaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/GroupCodeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/LevelTestingStatusRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/MarketingSourceRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/PaymentTypeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/SecondCriteriaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/StateRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/SubscriptionFrequencyRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/TenureRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/ThirdCriteriaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/master/repositories/UserTypeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/AddressRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/AllDayEventRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/BatchRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/BeltSizeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/CardPaymentResponseRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/CertificateRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/ChequePaymentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/ContractPromotionRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/ContractRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/ContractStatusRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/CustomRangeEventRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/DeactivationRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/EmailTemplateRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/EmailTypeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/EventCategoryRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/EventEnrollmentDateRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/EventPricingRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/EventRegistrationRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/EventRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/EventTypeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/GroupMessageRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/GuestStudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/LevelMappingRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/LevelRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/LevelTestingRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/MarketingSourceRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/ParentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/PricingRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/PrimaryAudienceRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/ProgramNameRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/RoleRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/RolesRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/SportsRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/StaffAttendanceRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/StaffAttendanceRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/StripeCustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/StudentAttendanceRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/StudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/StudentStatusHistoryRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/StudentStatusRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/SubLevelRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/repositories/UserRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/security/CustomUserDetailService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/security/JwtAuthenticationEntryPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/security/JwtAuthenticationFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/security/JwtTokenHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/AddressService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/BatchService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/BeltSizeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/CertificateImgToPdfService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/CertificateService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/ContractPromotionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/ContractService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/ContractStatusService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/DeactivationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/EmailTemplateService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/EmailTypeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/EventCategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/EventRegistrationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/EventService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/EventTypeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/FileService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/GroupMessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/LevelMappingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/LevelService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/LevelTestingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/MarketingSourceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/ParentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/PaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/RolesService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/SendEmailService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/SportsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/StaffAttendanceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/StudentAttendanceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/StudentStatusService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/SubLevelService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/AddressServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/AuditorAwareImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/BatchServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/BeltSizeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/CertificateImgToPdfServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/CertificateServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/ContractPromotionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/ContractServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/ContractStatusServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/DeactivationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/EmailTemplateServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/EmailTypeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/EventCategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/EventRegistrationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/EventServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/EventTypeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/FileServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/GroupMessageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/LevelMappingServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/LevelServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/LevelTestingServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/MarketingSourceServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/ParentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/PaymentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/RolesServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/SendEmailServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/SportsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/StaffAttendanceServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/StudentAttendanceServiceimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/StudentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/StudentStatusServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/SubLevelServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/services/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/util/AppConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/com/gen/surgeaceapi/util/Auditable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/db-migration/postgresql/V10__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/db-migration/postgresql/V11__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/db-migration/postgresql/V12__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/db-migration/postgresql/V1__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/db-migration/postgresql/V2__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/db-migration/postgresql/V3__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/db-migration/postgresql/V4__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/db-migration/postgresql/V5__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/db-migration/postgresql/V6__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/db-migration/postgresql/V7__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/db-migration/postgresql/V8__master.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ace-subs-api/target/classes/db-migration/postgresql/V9__master.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RuVpl04B6GVu8HSTsjJeWuShg0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MCB Assigment/mcb-api-service/mcb-demo-apis/src/main/java/com/gen/eChannel/verification/services/impl&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Console&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MCB Assigment\mcb-api-service\mcb-demo-apis\src\main\java\com\gen\eChannel\verification\services\impl" />
+      <recent name="D:\MCB Assigment\mcb-api-service\mcb-demo-apis\src\main\java\com\gen\eChannel\verification\controllers" />
+      <recent name="D:\backend 30th June 2023\ace-apis-serve\ace-subs-api\src\main\java\com\gen\surgeaceapi\services\impl" />
+      <recent name="D:\backend 30th June 2023\ace-apis-serve\ace-subs-api\src\main\java\com\gen\surgeaceapi\controllers" />
+      <recent name="D:\backend 30th June 2023\ace-apis-serve\ace-subs-api\src\main\java\com\gen\surgeaceapi\services" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gen.eChannel.verification.util" />
+      <recent name="com.gen.eChannel.verification.config" />
+      <recent name="com.gen.eChannel.verification.controllers" />
+      <recent name="com.gen.eChannel.verification.services.impl" />
+      <recent name="com.gen.eChannel.verification.services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SignatureVerificationApplication">
+    <configuration name="EChannelVerificationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gen.eChannel.verification.EChannelVerificationApplication" />
+      <module name="signature-verification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gen.eChannel.verification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignatureVerificationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gen.signatureverification.SignatureVerificationApplication" />
+      <module name="signature-verification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gen.signatureverification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SurgeAceApisApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gen.surgeaceapi.SurgeAceApisApplication" />
+      <module name="signature-verification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gen.surgeaceapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SignatureVerificationApplication" />
+        <item itemvalue="Application.EChannelVerificationApplication" />
+        <item itemvalue="Application.SurgeAceApisApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7497bec-de4e-4e97-847b-a4d49d47d378" name="Changes" comment="" />
+      <created>1688100137641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688100137641</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/eChannel_Verification$EChannelVerificationApplication.ic" NAME="EChannelVerificationApplication Coverage Results" MODIFIED="1689883309339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.gen.eChannel.verification.*</FILTER>
+    </SUITE>
+  </component>
+</project>
